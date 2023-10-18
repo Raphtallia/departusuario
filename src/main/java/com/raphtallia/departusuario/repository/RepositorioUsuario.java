@@ -1,4 +1,4 @@
-package com.raphtallia.departusuario.repositorios;
+package com.raphtallia.departusuario.repository;
 
 import com.raphtallia.departusuario.entities.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
